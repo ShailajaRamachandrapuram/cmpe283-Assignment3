@@ -18,8 +18,7 @@ Compile and build modules by using following commands
 
 #sudo apt-get install cpuid
 
-Checked dmesg from VM
-
+#Checked dmesg from VM
 
 Question 3:
 

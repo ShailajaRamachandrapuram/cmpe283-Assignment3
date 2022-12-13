@@ -30,12 +30,6 @@ Compile and build modules by using following commands
 
 Question 3:
 
-The total exit time is increasing and High 32 bit of total time spent on processing is 0 as time spent in processing exits is very minimal.
-
-Low 32 bit has been captured in %ecx.
-
-The frequency of number of exits are not increasing at a constant rate
-
-We observed 2072028 exits after full boot.
+The total exit time is increasing and High 32 bit of total time spent on processing is 0 as time spent in processing exits is very minimal.Low 32 bit has been captured in %ecx.The frequency of number of exits are not increasing at a constant rate.We observed 2072028 exits after full boot.
 
 Thank You.
